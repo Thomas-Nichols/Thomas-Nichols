@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hola, soy Thomas
 
-<!--
-**Thomas-Nichols/Thomas-Nichols** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Analista Programador Universitario**  
+🏫 Graduado de la Universidad Nacional de la Patagonia San Juan Bosco
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Me especializo en **automatización con IA** y **desarrollo web**, enfocado en crear soluciones prácticas que optimicen procesos y aporten valor real.
+---
+## 🚀 Áreas de interés
+- Automatización de procesos con IA
+- Desarrollo web (front-end y back-end)
+- Integración de APIs y servicios
+- Optimización de flujos de trabajo
+---
+## 🛠 Tecnologías y herramientas
+- HTML, CSS, JavaScript
+- Python
+- C
+- APIs REST
+- Godot
+- Java
+- SQL
+- Git & GitHub
+- Automatización e IA generativa
+---
+## 📂 Proyectos destacados
+- 🔹 **Automatización con IA** – Optimización de tareas repetitivas mediante IA  
+- 🔹 **Proyecto Web** – Sitio web funcional con enfoque en usabilidad  
+- 🔹 **Integración de APIs** – Consumo y procesamiento de datos externos
+> 📌 Podés ver más proyectos en mis repositorios públicos.
+---
+## 📫 Contacto
+- LinkedIn: [(link)](https://www.linkedin.com/in/thomas-nichols-rodr%C3%ADguez-481b02321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Email: thomasnichols005@gmail.com
