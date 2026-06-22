@@ -1,33 +1,122 @@
-# 👋 Hola, soy Thomas
+# 👋 Hi, I'm Thomas Nichols
 
-🎓 **Analista Programador Universitario**  
-🏫 Graduado de la Universidad Nacional de la Patagonia San Juan Bosco
+## Software Developer | University Programmer Analyst
 
-💡 Me especializo en **automatización con IA** y **desarrollo web**, enfocado en crear soluciones prácticas que optimicen procesos y aporten valor real.
+🎓 University Programmer Analyst graduated from the **National University of Patagonia San Juan Bosco**.
+
+💻 Software Developer focused on building web applications, customized software solutions, and digital products.
+
+🚀 Founder of **Alerce Studio**, where I develop technological solutions for clients, from requirements analysis to implementation.
+
+I am interested in software development, artificial intelligence, automation, and interactive technologies.
+
 ---
-## 🚀 Áreas de interés
-- Automatización de procesos con IA
-- Desarrollo web (front-end y back-end)
-- Integración de APIs y servicios
-- Optimización de flujos de trabajo
+
+# 🚀 About Me
+
+- 💻 Software Developer specialized in web applications and backend solutions
+- 🤖 Interested in Artificial Intelligence and automation
+- 🌐 Experience developing customized software solutions
+- 🎮 Background in game development and 3D simulation environments
+- 📚 Constantly learning new technologies and improving my skills
+
 ---
-## 🛠 Tecnologías y herramientas
-- HTML, CSS, JavaScript
+
+# 🛠 Technologies & Tools
+
+## Programming Languages
+
 - Python
-- C
-- APIs REST
-- Godot
 - Java
-- SQL
-- Git & GitHub
-- Automatización e IA generativa
+- JavaScript
+- TypeScript
+- C
+- C++
+- C#
+- GDScript
+
+## Web Development
+
+- HTML
+- CSS
+- React
+- Node.js
+- Express.js
+- REST APIs
+
+## Databases
+
+- MySQL
+- SQLite
+- SQL Server
+
+## Tools
+
+- Git
+- GitHub
+- Docker
+- Visual Studio Code
+
+## Other Technologies
+
+- Godot Engine
+- Unity
+- Artificial Intelligence
+- Image Classification
+- Data Processing
+
 ---
-## 📂 Proyectos destacados
-- 🔹 **Automatización con IA** – Optimización de tareas repetitivas mediante IA  
-- 🔹 **Proyecto Web** – Sitio web funcional con enfoque en usabilidad  
-- 🔹 **Integración de APIs** – Consumo y procesamiento de datos externos
-> 📌 Podés ver más proyectos en mis repositorios públicos.
+
+# 📂 Featured Projects
+
+## 🐝 PolinizAr — Artificial Intelligence Project
+
+Software developed for pollen species recognition in honey samples.
+
+**Technologies:**
+- Python
+- Artificial Intelligence
+- Image Classification
+- Data Processing
+
 ---
-## 📫 Contacto
-- LinkedIn: [(link)](https://www.linkedin.com/in/thomas-nichols-rodr%C3%ADguez-481b02321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Email: thomasnichols005@gmail.com
+
+## 🎮 Bugversity — Game Development Project
+
+Videogame developed using Godot Engine.
+
+**Features:**
+- Object-Oriented Programming
+- Game Systems Development
+- Collaborative Development
+
+---
+
+## 🏎️ Racing Simulation Projects
+
+Development of 3D content for racing simulators.
+
+**Experience:**
+- 3D track modeling
+- Asset creation and integration
+- Interactive simulation environments
+
+---
+
+# 📈 Currently Learning
+
+- Advanced Web Development
+- Artificial Intelligence Applications
+- Software Architecture
+- Cloud Technologies
+- Better development practices
+
+---
+
+# 📫 Contact
+
+LinkedIn:
+https://www.linkedin.com/in/thomas-nichols-rodr%C3%ADguez-481b02321/
+
+Email:
+thomasnichols005@gmail.com
